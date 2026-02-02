@@ -58,7 +58,6 @@ Designed with a clean and professional layout for real-world business use.
 
 ## 📷 Dashboard Preview
 ![Dashboard Preview](dashboard.png)
-<img width="1525" height="858" alt="dashboard" src="https://github.com/user-attachments/assets/371baebb-1265-4268-8660-b0df55f5a139" />
 
 ## 👤 Author
 Samir Devkar
